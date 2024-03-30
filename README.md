@@ -1,6 +1,6 @@
 # NotesApp
 
-Overview
+Overview->                                                                                                                                             
 This locally stored Notes App leverages ROOM, MVVM, Dagger-Hilt, RecyclerView, and Kotlin Flows to provide users with seamless note management capabilities. Users can effortlessly create, update, and delete notes with a long-press gesture, while enjoying the convenience of an undo option for deletions.
 
 Key Features->
